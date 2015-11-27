@@ -4,3 +4,4 @@ Yeah!
 Эта строка добавлена via git
 Эта строка добавлена в другой ветке "branch"
 in mster branch
+in mster branch2
